@@ -1,4 +1,4 @@
-### Hi there, I'm [Adin] 👋
+### Hi there, I'm Adin 👋
 
 I am a Data Analyst and Tech Builder with over 7 years of professional experience, focusing on data analytics, risk analysis, and workflow automation for the past 3-5 years. I enjoy turning complex datasets into strategic business insights and building AI-powered applications that solve real-world inefficiencies.
 
